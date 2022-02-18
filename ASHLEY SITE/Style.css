@@ -1,0 +1,65 @@
+    * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+    }
+    
+    body {
+        background-color: rgba(218, 205, 205, 0.623);
+        text-align: center;
+        justify-content: center;
+    }
+    
+    .heading,
+    h1,
+    h2 {
+        text-align: center;
+        font: small-caps;
+        font-size: 2em;
+        color: rgb(255, 174, 0);
+    }
+    
+    #text {
+        margin: auto;
+        justify-content: center;
+        max-width: 65%;
+    }
+    
+    .textblock {
+        text-align: center;
+        color: rgb(0, 0, 0);
+        padding-top: 8px;
+        padding-bottom: 8px;
+        max-width: 65%;
+        margin: auto;
+        font-size: 1.5em;
+    }
+    
+    #image {
+        align-content: center;
+        width: 50%;
+        height: 400px;
+        margin: 0 auto;
+    }
+    
+    .picture {
+        max-width: 600px;
+        height: 20em;
+    }
+    
+    #Links,
+    ul {
+        max-width: 40%;
+        border: 3px solid rgb(17, 233, 35);
+        margin: auto;
+    }
+    
+    #close {
+        text-align: center;
+        color: black;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        max-width: 30%;
+        margin: auto;
+        font-size: 1em;
+    }
